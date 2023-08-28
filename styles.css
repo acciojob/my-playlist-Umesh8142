@@ -4,6 +4,9 @@
     height: 1000px;
     background-color:rgb(204, 204, 204) ;
 }
+body{
+	background-color:rgb(204, 204, 204) ;
+}
 
 
 #songs{
@@ -41,6 +44,7 @@ li{
 .player_one{
     width: 90%;
     padding: 10px;
+	background-color:rgb(204, 204, 204) ;
 }
 .player_two{
     width: 80%;
